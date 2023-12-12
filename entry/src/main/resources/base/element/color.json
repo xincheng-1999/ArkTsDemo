@@ -3,6 +3,66 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "MG",
+      "value": "#88CC5A"
+    },
+    {
+      "name": "FB1",
+      "value": "#2E8AE6"
+    },
+    {
+      "name": "FB2",
+      "value": "#62A7ED"
+    },
+    {
+      "name": "FR1",
+      "value": "#DC6EA5"
+    },
+    {
+      "name": "PR",
+      "value": "#D14949"
+    },
+    {
+      "name": "PG",
+      "value": "#3DCC85"
+    },
+    {
+      "name": "PO",
+      "value": "#E68422"
+    },
+    {
+      "name": "CT1",
+      "value": "#323333"
+    },
+    {
+      "name": "CT2",
+      "value": "#656566"
+    },
+    {
+      "name": "CT3",
+      "value": "#979899"
+    },
+    {
+      "name": "CT4",
+      "value": "#CACBCC"
+    },
+    {
+      "name": "W",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "B1",
+      "value": "#F5F6F7"
+    },
+    {
+      "name": "D1",
+      "value": "#EEEFF0"
+    },
+    {
+      "name": "D2",
+      "value": "#DEDFE0"
     }
   ]
 }
